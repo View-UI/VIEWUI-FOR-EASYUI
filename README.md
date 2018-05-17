@@ -4,7 +4,28 @@
  
 可淘宝搜索“店铺”——“酷设网”查看更多模板组件
 
+
+开源版UI
+
+视图仪表板
 [![Example](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI.png)](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI.png)
+
+商业版UI
+
+视图仪表板
+[![Example](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI2.png)](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI2.png)
+[![Example](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI1.png)](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI1.png)
+
+更多界面：
+http://www.uedna.com/post/727460/
+http://www.zcool.com.cn/work/ZMjc3MTI4MDQ=.html
+
+模板
+https://shop155629335.taobao.com/?spm=a230r.7195193.1997079397.2.diL9ud
+
+了解更多
+[![Example](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/assets/default/images/hc-code.jpg)](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/assets/default/images/hc-code.jpg)
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -203,6 +224,8 @@ $('.navmenu-item a').click(function(){
 </body>
 </html>
 
+
+<script type="text/javascript">
 var _menus_oneLeve=[{"menuid":"0","menuname":"首页","icon":"fa-home"},{"menuid":"1","menuname":"成功案例","icon":"fa-trophy"},{"menuid":"2","menuname":"特效组件","icon":"fa-inbox"},{"menuid":"3","menuname":"文档帮助","icon":"fa-suitcase"},{"menuid":"4","menuname":"系统管理","icon":"fa-dropbox"}];
 var _menus=[
     {"menuid":"00","icon":"fa-trophy","menuname":"成功案例管理",parentMenu:'0',
@@ -329,3 +352,4 @@ var _menus=[
     });
 
 $(function(){var mydate = new Date(); var tm=mydate.getFullYear(); $("#timeYear").text(tm); });
+</script>
