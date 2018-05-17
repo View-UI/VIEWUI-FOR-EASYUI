@@ -1,22 +1,18 @@
-﻿/***********
-
-* 作者：poya QQ：931989338
+﻿/*淘宝搜索店铺 酷设网 查看更多
+* 作者：Poya QQ：931989338
+* 购买: 定制主题
+* 微信：SoSoITCenter
+* 公众平台：SoSoIT
 * 讨论群：149663025
-* 更新日期：2017/1/8
-
-* 广告：本人承接各类大中小型管理系统的软件的设计与主题开发，有需要的朋友联系我啦~~~~
-**********************************************************/
-var _menus_oneLeve=[
-    {"menuid":"0","menuname":"首页","icon":"fa-home"},
-	{"menuid":"1","menuname":"成功案例","icon":"fa-trophy"},
-	{"menuid":"2","menuname":"特效组件","icon":"fa-inbox"},
-	{"menuid":"3","menuname":"文档帮助","icon":"fa-suitcase"},
-	{"menuid":"4","menuname":"系统管理","icon":"fa-dropbox"}
-];
+* 广告：本人承接各类大中小型管理系统的软件的设计与前端开发、主题开发，有需要的朋友联系我啦
+* 模板：https://shop155629335.taobao.com/?spm=a230r.7195193.1997079397.2.diL9ud
+* 主题样式：开源版 
+*/
+var _menus_oneLeve=[{"menuid":"0","menuname":"首页","icon":"fa-home"},{"menuid":"1","menuname":"成功案例","icon":"fa-trophy"},{"menuid":"2","menuname":"特效组件","icon":"fa-inbox"},{"menuid":"3","menuname":"文档帮助","icon":"fa-suitcase"},{"menuid":"4","menuname":"系统管理","icon":"fa-dropbox"}];
 var _menus=[
     {"menuid":"00","icon":"fa-trophy","menuname":"成功案例管理",parentMenu:'0',
-        "menus":[{"menuid":"000","menuname":"仪表盘一","icon":"fa-dashboard","url":"dashboard.html"},
-                {"menuid":"001","menuname":"仪表盘二","icon":"fa-delicious","url":"kanban.html"}
+        "menus":[{"menuid":"000","menuname":"视图","icon":"fa-dashboard","url":"kanban.html"},
+                {"menuid":"001","menuname":"仪表盘","icon":"fa-delicious","url":"dashboard.html"}
             ]},{
      "menuid":"01","icon":"fa-television","menuname":"表单成功案例",parentMenu:'0',
         "menus":[{"menuid":"010","menuname":"代办事项","icon":"fa-tty","url":"https://item.taobao.com/item.htm?id=545823027227"},
@@ -79,24 +75,14 @@ var _menus=[
 			{"menuid":"412","menuname":"表单示例","icon":"fa-users","url":"demo/msgTip.html"},
 			{"menuid":"413","menuname":"角色管理","icon":"fa-address-card","url":"demo/msgTip.html"},
 			{"menuid":"414","menuname":"权限设置","icon":"fa-user-plus","url":"demo/msgTip.html"},
-			{"menuid":"415","menuname":"系统日志","icon":"fa-list","url":"demo/msgTip.html"}
+			{"menuid":"415","menuname":"升级日志","icon":"fa-list","url":"https://blog.csdn.net/DJCBPL/article/details/80281869"}
 		]
 	}
 		
 ];
 
     //设置登录窗口
-    function openPwd() {
-        $('#updatePwd').window({
-            title: '修改密码',
-            width: 300,
-            modal: true,
-            shadow: true,
-            closed: true,
-            height: 160,
-            resizable:false
-        });
-    }
+    function openPwd() {$('#updatePwd').window({title: '修改密码', width: 300, modal: true, shadow: true, closed: true, height: 160, resizable:false }); }
     //关闭登录窗口
     function closePwd() {$('#updatePwd').window('close');}
 
@@ -129,14 +115,13 @@ var _menus=[
     }
 
     $(function() {
-
         openPwd();
 
         $('#editpass').click(function(){$('#updatePwd').window('open');});
 
-        $('#btnEp').click(function(){serverLogin();})
+        $('#btnEp').click(function(){serverLogin();});
 
-		$('#btnCancel').click(function(){closePwd();})
+		$('#btnCancel').click(function(){closePwd();});
 
         $('#loginOut').click(function() {
             $.messager.confirm('系统提示', '您确定要退出本次登录吗?', function(r) {
@@ -148,9 +133,4 @@ var _menus=[
         })
     });
 
-$(function(){// 版权时间
-    var mydate = new Date();
-
-    var tm=mydate.getFullYear();//toLocaleString();
-    $("#timeYear").text(tm);
-});
+$(function(){var mydate = new Date(); var tm=mydate.getFullYear(); $("#timeYear").text(tm); });
