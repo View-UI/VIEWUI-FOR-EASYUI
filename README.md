@@ -17,8 +17,8 @@
 [![Example](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI1.png)](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI1.png)
 
 更多界面：
-http://www.uedna.com/post/727460/
-http://www.zcool.com.cn/work/ZMjc3MTI4MDQ=.html
+界面一：http://www.uedna.com/user/33963/
+界面二：http://www.zcool.com.cn/work/ZMjc3MTI4MDQ=.html
 
 更多模板
 https://shop155629335.taobao.com/?spm=a230r.7195193.1997079397.2.diL9ud
