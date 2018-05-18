@@ -1,5 +1,5 @@
 新鲜出炉基于EasyUI开发的「VIEWUI FOR EASYUI 管理系统UI界面」，分开源基础版和商业版；可应用于各种企业级管理系统、和非企业级管理系统、OA、ERP、CRM等等，欢迎意见或加入我们共同发展，
-大佬请轻拍：https://github.com/View-UI/VIEWUI-FOR-EASYUI/tree/master/VIEW_UI_EASYUI
+大佬请轻拍：https://github.com/View-UI/VIEWUI-FOR-EASYUI/tree/master
  VIEWUI FOR EASYUI使用了EasyUI 1.5.1正式版、font awesome图标库、jQuery 2.11、echartsjs、HTML、HTML5、DIV、CSS、CSS3等技术，全新UI定制、组件UI美化、拓展。 有空点个Star 鼓励下哦。
  
 可淘宝搜索“店铺”——“酷设网”查看更多模板组件
@@ -20,12 +20,38 @@
 http://www.uedna.com/post/727460/
 http://www.zcool.com.cn/work/ZMjc3MTI4MDQ=.html
 
-模板
+更多模板
 https://shop155629335.taobao.com/?spm=a230r.7195193.1997079397.2.diL9ud
 
 了解更多
+
 [![Example](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/assets/default/images/hc-code.jpg)](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/assets/default/images/hc-code.jpg)
 
+栏目分类：
+栏目分类
+首页 驾驶舱、视图、仪表板
+
+案例 弹窗表单一、弹窗表单二、创新表单一、创新表单二、一列表单、一列面板表单、两列表单、两列面板表单、组合案例、成功案例
+
+插件 
+基础：加载、分页、进度条、搜索框、拖拽、调整大小， 
+布局：面板、布局、选项卡、手风琴； 
+表单：下拉框、微调、滑动条、提示、列表组、树、组合树、日历、日期框、验证框， 
+窗口：模态框、弹出框，表格：编辑表格、树网络表格、组合表格、分页表格
+
+组件 
+表单：按钮、表格、文本框、文件框、下拉框、标签、单多选、菜单， 
+元素：SVG图标库、提示条
+
+拓展 机构人员部门插件、敏捷看板面板
+
+文档 文档管理原型、我的分享原型
+
+管理 
+管理：菜单管理、用户设置、角色管理、系统日志， 
+特性：日志、定制、购买、更多
+
+其他 界面：登录界面、404、500等等
 
 <!DOCTYPE html>
 <html lang="en">
