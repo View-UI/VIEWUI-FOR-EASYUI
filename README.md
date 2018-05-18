@@ -17,15 +17,17 @@
 [![Example](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI1.png)](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI1.png)
 
 更多界面：
-界面一：http://www.uedna.com/user/33963/
+界面一：http://www.uedna.com/user/33963/                                                                                
 界面二：http://www.zcool.com.cn/work/ZMjc3MTI4MDQ=.html
 
 更多模板
-https://shop155629335.taobao.com/?spm=a230r.7195193.1997079397.2.diL9ud
+https://shop155629335.taobao.com/?spm=a230r.7195193.1997079397.2.diL9ud                                                                
 
 了解更多
 [![Example](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/assets/default/images/hc-code.jpg)](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/assets/default/images/hc-code.jpg)
 
+技术交流Q群：149663025                                                                               
+微信公众平台：SoSoIT                                                                               
 
 栏目分类：
 首页 驾驶舱、视图、仪表板
