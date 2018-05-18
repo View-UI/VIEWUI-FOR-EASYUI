@@ -10,37 +10,37 @@
 视图仪表板
 [![Example](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI.png)](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI.png)
 
-商业版UI
+商业版UI                                                                               
 
-视图仪表板
+视图仪表板                                                                               
 [![Example](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI2.png)](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI2.png)
 [![Example](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI1.png)](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/VIEW_UI_EASYUI1.png)
 
-更多界面：
+更多界面：                                                                               
 界面一：http://www.uedna.com/user/33963/                                                                                
 界面二：http://www.zcool.com.cn/work/ZMjc3MTI4MDQ=.html
 
-更多模板
+更多模板                                                                               
 https://shop155629335.taobao.com/?spm=a230r.7195193.1997079397.2.diL9ud                                                                
 
-了解更多
+了解更多                                                                        						       
 [![Example](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/assets/default/images/hc-code.jpg)](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/assets/default/images/hc-code.jpg)
 
 技术交流Q群：149663025                                                                               
 微信公众平台：SoSoIT                                                                               
 
-栏目分类：
+栏目分类：                                                                               
 首页 驾驶舱、视图、仪表板
 
 案例 弹窗表单一、弹窗表单二、创新表单一、创新表单二、一列表单、一列面板表单、两列表单、两列面板表单、组合案例、成功案例
 
-插件 
+插件                                                                                
 基础：加载、分页、进度条、搜索框、拖拽、调整大小， 
 布局：面板、布局、选项卡、手风琴； 
 表单：下拉框、微调、滑动条、提示、列表组、树、组合树、日历、日期框、验证框， 
 窗口：模态框、弹出框，表格：编辑表格、树网络表格、组合表格、分页表格
 
-组件 
+组件                                                                                
 表单：按钮、表格、文本框、文件框、下拉框、标签、单多选、菜单， 
 元素：SVG图标库、提示条
 
@@ -48,7 +48,7 @@ https://shop155629335.taobao.com/?spm=a230r.7195193.1997079397.2.diL9ud
 
 文档 文档管理原型、我的分享原型
 
-管理 
+管理                                                                                
 管理：菜单管理、用户设置、角色管理、系统日志， 
 特性：日志、定制、购买、更多
 
