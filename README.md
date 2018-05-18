@@ -24,11 +24,10 @@ http://www.zcool.com.cn/work/ZMjc3MTI4MDQ=.html
 https://shop155629335.taobao.com/?spm=a230r.7195193.1997079397.2.diL9ud
 
 了解更多
-
 [![Example](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/assets/default/images/hc-code.jpg)](https://github.com/View-UI/VIEWUI-FOR-EASYUI/blob/master/VIEW_UI_EASYUI/assets/default/images/hc-code.jpg)
 
+
 栏目分类：
-栏目分类
 首页 驾驶舱、视图、仪表板
 
 案例 弹窗表单一、弹窗表单二、创新表单一、创新表单二、一列表单、一列面板表单、两列表单、两列面板表单、组合案例、成功案例
